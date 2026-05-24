@@ -1,5 +1,5 @@
 # USS_Analitica_De_Datos
-#Taller sumativo S8 de Analítica y Ciencia de Datos: EDA y modelos predictivos sobre Boston Housing.
+#Taller de Analítica y Ciencia de Datos: EDA y modelos predictivos sobre Boston Housing.
 
 ## Descripción
 
